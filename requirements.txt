@@ -1,0 +1,22 @@
+# Core ML
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Data & numeric
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+
+# ML & stats
+scikit-learn>=1.3.0
+
+# Imaging
+Pillow>=10.0.0
+kornia>=0.7.0
+
+# Utilities
+matplotlib>=3.7.0
+tqdm>=4.65.0
+
+# Dataset download
+kagglehub>=0.2.0
